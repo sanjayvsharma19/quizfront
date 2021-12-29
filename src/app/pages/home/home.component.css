@@ -1,0 +1,26 @@
+/* img
+{
+    width:800px;
+    height: 400px;
+    margin-left: 1px;
+} */
+
+
+.container {
+    position: relative;
+    /* text-align: center; */
+    color:white;
+    font-size: 100px;
+    left: -21%;
+    top: -10px;
+
+  }
+  
+  .centered {
+    position:fixed;
+    margin-left: 10px;
+    top: 50%;
+    left: 370px;
+    
+    transform: translate(-50%, -50%);
+  }
